@@ -48,14 +48,15 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A Russian tutor deals with the outcomes of the allure of roulette.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the fictional town of Roulettenberg, Germany, a Russian tutor to the children of a seemingly wealthy general is enticed to play roulette at the local casino. First playing for others (including his beloved Polina Alexandrovna), he soon gets a taste for the experience himself, which can lead in only one direction.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky&lt;/a&gt; wrote this story based at least partially on personal experience. After his second marriage (and the successful publication of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett"&gt;&lt;i&gt;Crime and Punishment&lt;/i&gt;&lt;/a&gt;) him and his wife took a honeymoon in Baden-Baden, where Dostoevsky lost large quantities of money at the roulette table. To get his financial situation back to normal he then set up a wager with his publisher: they’d have the right to publish his work for free for nine years if he couldn’t deliver this novel by November 1866. He succeeded in this, and was able to move on to writing &lt;i&gt;The Idiot&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Gambler&lt;/i&gt; has been translated to screen and radio, and was even turned into an opera by Prokofiev. This edition is the 1915 translation by &lt;abbr&gt;C. J.&lt;/abbr&gt; Hogarth.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2197</dc:source>
 		<dc:source>https://archive.org/details/poorfolkgambler00dost</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Gambler_(novel)</meta>
